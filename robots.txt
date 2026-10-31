@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /WEDE/
+Disallow: /WEDE/private/
+
+Sitemap: https://ngalekamnikilitha-a11y.github.io/WEDE/Sitemap.xml
